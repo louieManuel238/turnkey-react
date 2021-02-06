@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/turnkey-react/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/turnkey-react/static/js/main.aea45580.chunk.js",
-    "main.js.map": "/turnkey-react/static/js/main.aea45580.chunk.js.map",
-    "runtime-main.js": "/turnkey-react/static/js/runtime-main.7a8a8935.js",
-    "runtime-main.js.map": "/turnkey-react/static/js/runtime-main.7a8a8935.js.map",
-    "static/js/2.f65f4a47.chunk.js": "/turnkey-react/static/js/2.f65f4a47.chunk.js",
-    "static/js/2.f65f4a47.chunk.js.map": "/turnkey-react/static/js/2.f65f4a47.chunk.js.map",
-    "static/js/3.14670d4f.chunk.js": "/turnkey-react/static/js/3.14670d4f.chunk.js",
-    "static/js/3.14670d4f.chunk.js.map": "/turnkey-react/static/js/3.14670d4f.chunk.js.map",
+    "main.css": "/turnkey-react/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/turnkey-react/static/js/main.e29c0715.chunk.js",
+    "main.js.map": "/turnkey-react/static/js/main.e29c0715.chunk.js.map",
+    "runtime-main.js": "/turnkey-react/static/js/runtime-main.0ff07f6a.js",
+    "runtime-main.js.map": "/turnkey-react/static/js/runtime-main.0ff07f6a.js.map",
+    "static/js/2.4fbf9704.chunk.js": "/turnkey-react/static/js/2.4fbf9704.chunk.js",
+    "static/js/2.4fbf9704.chunk.js.map": "/turnkey-react/static/js/2.4fbf9704.chunk.js.map",
+    "static/js/3.9f1558ad.chunk.js": "/turnkey-react/static/js/3.9f1558ad.chunk.js",
+    "static/js/3.9f1558ad.chunk.js.map": "/turnkey-react/static/js/3.9f1558ad.chunk.js.map",
     "index.html": "/turnkey-react/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/turnkey-react/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.f65f4a47.chunk.js.LICENSE.txt": "/turnkey-react/static/js/2.f65f4a47.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/turnkey-react/static/media/logo.6ce24c58.svg"
+    "static/css/main.6dea0f05.chunk.css.map": "/turnkey-react/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.4fbf9704.chunk.js.LICENSE.txt": "/turnkey-react/static/js/2.4fbf9704.chunk.js.LICENSE.txt",
+    "static/media/TurnKeyLogo.757cd78d.png": "/turnkey-react/static/media/TurnKeyLogo.757cd78d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7a8a8935.js",
-    "static/js/2.f65f4a47.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.aea45580.chunk.js"
+    "static/js/runtime-main.0ff07f6a.js",
+    "static/js/2.4fbf9704.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.e29c0715.chunk.js"
   ]
 }
