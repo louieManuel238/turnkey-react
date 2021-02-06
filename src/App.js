@@ -1,24 +1,37 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from './TurnKeyLogo.png';
+import React, {useState} from 'react';
+import info from './data.json';
+
+import { Switch, Route,  BrowserRouter as Router } from "react-router-dom";
+import Matches from './Matches';
+
 
 function App() {
+
+  const [profiles, setProfile] = useState(info.renter)
+const [listing, setListing] = useState(info.landlord)
+
+const selected = profiles.find((info) => info.id=== 5)
+
+const landlords = profiles.filter((pinfo) => pinfo.type === "landlord")
+
   return (
+    
     <div className="App">
+      <Router>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          TEST <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
+      
+      <Switch>
+        <Route path={"/Matches"}>
+              <a>Renter</a><Matches/>
+          </Route>
+        
+      </Switch>
+      </Router>
     </div>
+ 
   );
 }
 

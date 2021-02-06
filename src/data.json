@@ -1,0 +1,177 @@
+{ "renter" :[
+    {
+        "id":1,
+        "type": "renter",
+        "name": "Sarah Patterson",
+        "photo": "",
+        "email": "sarahpatterson@email.com",
+        "phone": "(415) 555-7837",
+        "monthyIncome": 8450.00,
+        "age": 32,
+        "about": "Hi, Im .....",
+        "currentRentDuration": 1,
+        "employment": {
+            "employer": "someone",
+            "position": "",
+            "workDuration": 4,
+            "phone":"(415) 555-7837",
+            "email":"sarahpatterson@email.com"
+        },
+        "references": {
+            "name":"Sarah Patterson",
+            "phone":"(415) 555-7837",
+            "email":"sarahpatterson@email.com",
+            "relation": "",
+            "summary": ""
+        }
+        
+    },
+    {
+        "id":2,
+        "type": "landlord",
+        "name": "Sarah Patterson",
+        "photo": "",
+        "email": "sarahpatterson@email.com",
+        "phone": "(415) 555-7837",
+        "monthyIncome": 8450.00,
+        "age": 32,
+        "about": "Hi, Im .....",
+        "currentRentDuration": 1,
+        "employment": {
+            "employer": "someone",
+            "position": "",
+            "workDuration": 4,
+            "phone":"(415) 555-7837",
+            "email":"sarahpatterson@email.com"
+        },
+        "references": {
+            "name":"Sarah Patterson",
+            "phone":"(415) 555-7837",
+            "email":"sarahpatterson@email.com",
+            "relation": "",
+            "summary": ""
+        }
+        
+    },
+    {
+        "id":3,
+        "type": "renter",
+        "name": "Sarah Patterson",
+        "photo": "",
+        "email": "sarahpatterson@email.com",
+        "phone": "(415) 555-7837",
+        "monthyIncome": 8450.00,
+        "age": 32,
+        "about": "Hi, Im .....",
+        "currentRentDuration": 1,
+        "employment": {
+            "employer": "someone",
+            "position": "",
+            "workDuration": 4,
+            "phone":"(415) 555-7837",
+            "email":"sarahpatterson@email.com"
+        },
+        "references": {
+            "name":"Sarah Patterson",
+            "phone":"(415) 555-7837",
+            "email":"sarahpatterson@email.com",
+            "relation": "",
+            "summary": ""
+        }
+        
+    },
+    {
+        "id":4,
+        "type": "renter",
+        "name": "Sarah Patterson",
+        "photo": "",
+        "email": "sarahpatterson@email.com",
+        "phone": "(415) 555-7837",
+        "monthyIncome": 8450.00,
+        "age": 32,
+        "about": "Hi, Im .....",
+        "currentRentDuration": 1,
+        "employment": {
+            "employer": "someone",
+            "position": "",
+            "workDuration": 4,
+            "phone":"(415) 555-7837",
+            "email":"sarahpatterson@email.com"
+        },
+        "references": {
+            "name":"Sarah Patterson",
+            "phone":"(415) 555-7837",
+            "email":"sarahpatterson@email.com",
+            "relation": "",
+            "summary": ""
+        }
+        
+    },
+    {
+        "id":5,
+        "type": "landlord",
+        "name": "Sarah Patterson5",
+        "photo": "",
+        "email": "sarahpatterson@email.com",
+        "phone": "(415) 555-7837",
+        "monthyIncome": 8450.00,
+        "age": 32,
+        "about": "Hi, Im .....",
+        "currentRentDuration": 1,
+        "employment": {
+            "employer": "someone",
+            "position": "",
+            "workDuration": 4,
+            "phone":"(415) 555-7837",
+            "email":"sarahpatterson@email.com"
+        },
+        "references": {
+            "name":"Sarah Patterson",
+            "phone":"(415) 555-7837",
+            "email":"sarahpatterson@email.com",
+            "relation": "",
+            "summary": ""
+        }
+        
+    }
+],
+"landlord": [
+    {
+        "id":1,
+        "type": "landlord",
+        "name": "Sarah Patterson",
+        "photo": "",
+        "email": "sarahpatterson@email.com",
+        "phone": "(415) 555-7837",
+        "about": "Hi, Im .....",
+        "listing": [{
+            "mapLocation" : "dsasd",
+            "city": "Edmonton",
+            "postalCode": "t5p0p2",
+            "photo": [],
+            "price": 300
+
+        }
+    ]
+    },{
+        "id":1,
+        "type": "landlord",
+        "name": "Sarah Patterson 3213123",
+        "photo": "",
+        "email": "sarahpatterson@email.com",
+        "phone": "(415) 555-7837",
+        "about": "Hi, Im .....",
+        "listing": [
+        {
+            "mapLocation" : "dsasd",
+            "city": "Calgary",
+            "postalCode": "t5p0p2",
+            "photo": [],
+            "price": 400
+
+        }
+    ]
+    }
+
+    ]
+}
